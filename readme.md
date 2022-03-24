@@ -7,3 +7,5 @@
 3.press keyword f to see death firing action
 4.press keyword l to see idle action
 5.press keyword e to see walking action
+
+![]('screenshot/character.png')
